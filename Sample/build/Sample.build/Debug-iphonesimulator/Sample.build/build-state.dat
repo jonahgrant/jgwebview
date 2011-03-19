@@ -1,0 +1,287 @@
+TSample
+v7
+r0
+t322199449.442691
+cCheck dependencies
+cProcessInfoPlistFile /Users/jonahgrant/JGWebView/Sample/build/Debug-iphonesimulator/Sample.app/Info.plist Sample-Info.plist
+cCompileXIB /Users/jonahgrant/JGWebView/Sample/MainWindow.xib
+cCompileXIB /Users/jonahgrant/JGWebView/Sample/SampleViewController.xib
+cProcessPCH /var/folders/qZ/qZxnUPSOF5S8yEbSxrhL1U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sample_Prefix-dvuhikybudxdppaewrpsaiqjsvhb/Sample_Prefix.pch.gch Sample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/main.o /Users/jonahgrant/JGWebView/Sample/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/SampleAppDelegate.o /Users/jonahgrant/JGWebView/Sample/Classes/SampleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/SampleViewController.o /Users/jonahgrant/JGWebView/Sample/Classes/SampleViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/JGWebView.o /Users/jonahgrant/JGWebView/Sample/Classes/JGWebView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/jonahgrant/JGWebView/Sample/build/Debug-iphonesimulator/Sample.app/Sample normal i386
+cGenerateDSYMFile /Users/jonahgrant/JGWebView/Sample/build/Debug-iphonesimulator/Sample.app.dSYM /Users/jonahgrant/JGWebView/Sample/build/Debug-iphonesimulator/Sample.app/Sample
+cTouch /Users/jonahgrant/JGWebView/Sample/build/Debug-iphonesimulator/Sample.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Users/jonahgrant/JGWebView/Sample/Classes/JGWebView.h
+c000000004D82887B000000000000011F
+t1300400251
+s287
+i<UIKit/UIKit.h>
+
+N/Users/jonahgrant/JGWebView/Sample/Classes/JGWebView.m
+c000000004D8427B900000000000002A0
+t1300506553
+s672
+i"JGWebView.h"
+
+N/Users/jonahgrant/JGWebView/Sample/Classes/SampleAppDelegate.h
+c000000004D84262E00000000000001D8
+t1300506158
+s472
+i<UIKit/UIKit.h>
+
+N/Users/jonahgrant/JGWebView/Sample/Classes/SampleAppDelegate.m
+c000000004D84262E0000000000000AA4
+t1300506158
+s2724
+i"SampleAppDelegate.h"
+i"SampleViewController.h"
+
+N/Users/jonahgrant/JGWebView/Sample/Classes/SampleViewController.h
+c000000004D84278D0000000000000146
+t1300506509
+s326
+i<UIKit/UIKit.h>
+i"JGWebView.h"
+
+N/Users/jonahgrant/JGWebView/Sample/Classes/SampleViewController.m
+c000000004D842819000000000000054E
+t1300506649
+s1358
+i"SampleViewController.h"
+
+N/Users/jonahgrant/JGWebView/Sample/MainWindow.xib
+c000000004D84262E0000000000004E1D
+t1300506158
+s19997
+
+N/Users/jonahgrant/JGWebView/Sample/SampleViewController.xib
+c000000004D84262E0000000000001A41
+t1300506158
+s6721
+
+N/Users/jonahgrant/JGWebView/Sample/Sample_Prefix.pch
+c000000004D84262E00000000000000B5
+t1300506158
+s181
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/jonahgrant/JGWebView/Sample/build/Debug-iphonesimulator/Sample.app
+t1300506649
+s238
+
+N/Users/jonahgrant/JGWebView/Sample/build/Debug-iphonesimulator/Sample.app.dSYM
+t1300506649
+s102
+
+N/Users/jonahgrant/JGWebView/Sample/build/Debug-iphonesimulator/Sample.app/Info.plist
+t1300506343
+s587
+
+N/Users/jonahgrant/JGWebView/Sample/build/Debug-iphonesimulator/Sample.app/MainWindow.nib
+t1300506344
+s1679
+
+N/Users/jonahgrant/JGWebView/Sample/build/Debug-iphonesimulator/Sample.app/PkgInfo
+t1300506343
+s8
+
+N/Users/jonahgrant/JGWebView/Sample/build/Debug-iphonesimulator/Sample.app/Sample
+t1300506649
+s19656
+
+N/Users/jonahgrant/JGWebView/Sample/build/Debug-iphonesimulator/Sample.app/SampleViewController.nib
+t1300506344
+s1269
+
+N/Users/jonahgrant/JGWebView/Sample/build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/JGWebView.o
+t1300506553
+s41064
+
+N/Users/jonahgrant/JGWebView/Sample/build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/Sample.LinkFileList
+c000000004D8426E700000000000001F2
+t1300506343
+s498
+
+N/Users/jonahgrant/JGWebView/Sample/build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/SampleAppDelegate.o
+t1300506509
+s51492
+
+N/Users/jonahgrant/JGWebView/Sample/build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/SampleViewController.o
+t1300506649
+s44468
+
+N/Users/jonahgrant/JGWebView/Sample/build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/main.o
+t1300506346
+s6304
+
+N/Users/jonahgrant/JGWebView/Sample/main.m
+c000000004D84262E0000000000000167
+t1300506158
+s359
+i<UIKit/UIKit.h>
+
+N/var/folders/qZ/qZxnUPSOF5S8yEbSxrhL1U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sample_Prefix-dvuhikybudxdppaewrpsaiqjsvhb/Sample_Prefix.pch.gch
+t1300506346
+s15814064
+
+NSample-Info.plist
+c000000004D84262E000000000000038D
+t1300506158
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies322199449#322199449#0(0"0(0#1#0"9138436800#0"0#
+
+CCompileC build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/JGWebView.o /Users/jonahgrant/JGWebView/Sample/Classes/JGWebView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322199353.524029
+e322199353.610639
+r1
+xCompileC
+xbuild/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/JGWebView.o
+x/Users/jonahgrant/JGWebView/Sample/Classes/JGWebView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/jonahgrant/JGWebView/Sample/Classes/JGWebView.m322199353#322199353#0(0"0(0#0#54"/Users/jonahgrant/JGWebView/Sample/Classes/JGWebView.m9160467840#1868"    cd /Users/jonahgrant/JGWebView/Sample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/jonahgrant/JGWebView/Sample/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-generated-files.hmap -I/Users/jonahgrant/JGWebView/Sample/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-own-target-headers.hmap -I/Users/jonahgrant/JGWebView/Sample/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-all-target-headers.hmap -iquote /Users/jonahgrant/JGWebView/Sample/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-project-headers.hmap -F/Users/jonahgrant/JGWebView/Sample/build/Debug-iphonesimulator -I/Users/jonahgrant/JGWebView/Sample/build/Debug-iphonesimulator/include -I/Users/jonahgrant/JGWebView/Sample/build/Sample.build/Debug-iphonesimulator/Sample.build/DerivedSources/i386 -I/Users/jonahgrant/JGWebView/Sample/build/Sample.build/Debug-iphonesimulator/Sample.build/DerivedSources -include /var/folders/qZ/qZxnUPSOF5S8yEbSxrhL1U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sample_Prefix-dvuhikybudxdppaewrpsaiqjsvhb/Sample_Prefix.pch -c /Users/jonahgrant/JGWebView/Sample/Classes/JGWebView.m -o /Users/jonahgrant/JGWebView/Sample/build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/JGWebView.o0#
+
+CCompileC build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/SampleAppDelegate.o /Users/jonahgrant/JGWebView/Sample/Classes/SampleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322199309.757050
+e322199309.907189
+r1
+xCompileC
+xbuild/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/SampleAppDelegate.o
+x/Users/jonahgrant/JGWebView/Sample/Classes/SampleAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/jonahgrant/JGWebView/Sample/Classes/SampleAppDelegate.m322199309#322199309#0(0"0(0#0#62"/Users/jonahgrant/JGWebView/Sample/Classes/SampleAppDelegate.m9185891456#1884"    cd /Users/jonahgrant/JGWebView/Sample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/jonahgrant/JGWebView/Sample/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-generated-files.hmap -I/Users/jonahgrant/JGWebView/Sample/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-own-target-headers.hmap -I/Users/jonahgrant/JGWebView/Sample/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-all-target-headers.hmap -iquote /Users/jonahgrant/JGWebView/Sample/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-project-headers.hmap -F/Users/jonahgrant/JGWebView/Sample/build/Debug-iphonesimulator -I/Users/jonahgrant/JGWebView/Sample/build/Debug-iphonesimulator/include -I/Users/jonahgrant/JGWebView/Sample/build/Sample.build/Debug-iphonesimulator/Sample.build/DerivedSources/i386 -I/Users/jonahgrant/JGWebView/Sample/build/Sample.build/Debug-iphonesimulator/Sample.build/DerivedSources -include /var/folders/qZ/qZxnUPSOF5S8yEbSxrhL1U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sample_Prefix-dvuhikybudxdppaewrpsaiqjsvhb/Sample_Prefix.pch -c /Users/jonahgrant/JGWebView/Sample/Classes/SampleAppDelegate.m -o /Users/jonahgrant/JGWebView/Sample/build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/SampleAppDelegate.o0#
+
+CCompileC build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/SampleViewController.o /Users/jonahgrant/JGWebView/Sample/Classes/SampleViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322199449.127230
+e322199449.339270
+r1
+xCompileC
+xbuild/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/SampleViewController.o
+x/Users/jonahgrant/JGWebView/Sample/Classes/SampleViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/jonahgrant/JGWebView/Sample/Classes/SampleViewController.m322199449#322199449#0(0"0(0#0#65"/Users/jonahgrant/JGWebView/Sample/Classes/SampleViewController.m9127775392#1890"    cd /Users/jonahgrant/JGWebView/Sample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/jonahgrant/JGWebView/Sample/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-generated-files.hmap -I/Users/jonahgrant/JGWebView/Sample/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-own-target-headers.hmap -I/Users/jonahgrant/JGWebView/Sample/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-all-target-headers.hmap -iquote /Users/jonahgrant/JGWebView/Sample/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-project-headers.hmap -F/Users/jonahgrant/JGWebView/Sample/build/Debug-iphonesimulator -I/Users/jonahgrant/JGWebView/Sample/build/Debug-iphonesimulator/include -I/Users/jonahgrant/JGWebView/Sample/build/Sample.build/Debug-iphonesimulator/Sample.build/DerivedSources/i386 -I/Users/jonahgrant/JGWebView/Sample/build/Sample.build/Debug-iphonesimulator/Sample.build/DerivedSources -include /var/folders/qZ/qZxnUPSOF5S8yEbSxrhL1U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sample_Prefix-dvuhikybudxdppaewrpsaiqjsvhb/Sample_Prefix.pch -c /Users/jonahgrant/JGWebView/Sample/Classes/SampleViewController.m -o /Users/jonahgrant/JGWebView/Sample/build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/SampleViewController.o0#
+
+CCompileC build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/main.o /Users/jonahgrant/JGWebView/Sample/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322199146.323078
+e322199146.504140
+r1
+xCompileC
+xbuild/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/main.o
+x/Users/jonahgrant/JGWebView/Sample/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@49"Compile /Users/jonahgrant/JGWebView/Sample/main.m322199146#322199146#0(0"0(0#0#41"/Users/jonahgrant/JGWebView/Sample/main.m9213116288#1850"    cd /Users/jonahgrant/JGWebView/Sample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/jonahgrant/JGWebView/Sample/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-generated-files.hmap -I/Users/jonahgrant/JGWebView/Sample/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-own-target-headers.hmap -I/Users/jonahgrant/JGWebView/Sample/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-all-target-headers.hmap -iquote /Users/jonahgrant/JGWebView/Sample/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-project-headers.hmap -F/Users/jonahgrant/JGWebView/Sample/build/Debug-iphonesimulator -I/Users/jonahgrant/JGWebView/Sample/build/Debug-iphonesimulator/include -I/Users/jonahgrant/JGWebView/Sample/build/Sample.build/Debug-iphonesimulator/Sample.build/DerivedSources/i386 -I/Users/jonahgrant/JGWebView/Sample/build/Sample.build/Debug-iphonesimulator/Sample.build/DerivedSources -include /var/folders/qZ/qZxnUPSOF5S8yEbSxrhL1U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sample_Prefix-dvuhikybudxdppaewrpsaiqjsvhb/Sample_Prefix.pch -c /Users/jonahgrant/JGWebView/Sample/main.m -o /Users/jonahgrant/JGWebView/Sample/build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/jonahgrant/JGWebView/Sample/MainWindow.xib
+s322199143.625660
+e322199144.364416
+r1
+xCompileXIB
+x/Users/jonahgrant/JGWebView/Sample/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib322199143#322199144#0(0"0(0#0#49"/Users/jonahgrant/JGWebView/Sample/MainWindow.xib9183113824#557"    cd /Users/jonahgrant/JGWebView/Sample    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jonahgrant/JGWebView/Sample/build/Debug-iphonesimulator/Sample.app/MainWindow.nib /Users/jonahgrant/JGWebView/Sample/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/jonahgrant/JGWebView/Sample/SampleViewController.xib
+s322199143.667764
+e322199144.249377
+r1
+xCompileXIB
+x/Users/jonahgrant/JGWebView/Sample/SampleViewController.xib
+lSLF07#2@35"CompileXIB SampleViewController.xib322199143#322199144#0(0"0(0#0#59"/Users/jonahgrant/JGWebView/Sample/SampleViewController.xib9125585984#577"    cd /Users/jonahgrant/JGWebView/Sample    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jonahgrant/JGWebView/Sample/build/Debug-iphonesimulator/Sample.app/SampleViewController.nib /Users/jonahgrant/JGWebView/Sample/SampleViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CGenerateDSYMFile /Users/jonahgrant/JGWebView/Sample/build/Debug-iphonesimulator/Sample.app.dSYM /Users/jonahgrant/JGWebView/Sample/build/Debug-iphonesimulator/Sample.app/Sample
+s322199449.395605
+e322199449.429226
+r1
+xGenerateDSYMFile
+x/Users/jonahgrant/JGWebView/Sample/build/Debug-iphonesimulator/Sample.app.dSYM
+x/Users/jonahgrant/JGWebView/Sample/build/Debug-iphonesimulator/Sample.app/Sample
+lSLF07#2@106"GenerateDSYMFile build/Debug-iphonesimulator/Sample.app.dSYM build/Debug-iphonesimulator/Sample.app/Sample322199449#322199449#0(0"0(0#0#80"/Users/jonahgrant/JGWebView/Sample/build/Debug-iphonesimulator/Sample.app/Sample9201040000#368"    cd /Users/jonahgrant/JGWebView/Sample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/jonahgrant/JGWebView/Sample/build/Debug-iphonesimulator/Sample.app/Sample -o /Users/jonahgrant/JGWebView/Sample/build/Debug-iphonesimulator/Sample.app.dSYM0#
+
+CLd /Users/jonahgrant/JGWebView/Sample/build/Debug-iphonesimulator/Sample.app/Sample normal i386
+s322199449.339342
+e322199449.395512
+r1
+xLd
+x/Users/jonahgrant/JGWebView/Sample/build/Debug-iphonesimulator/Sample.app/Sample
+xnormal
+xi386
+lSLF07#2@85"Link /Users/jonahgrant/JGWebView/Sample/build/Debug-iphonesimulator/Sample.app/Sample322199449#322199449#0(0"0(0#0#0"9203199808#875"    cd /Users/jonahgrant/JGWebView/Sample    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/jonahgrant/JGWebView/Sample/build/Debug-iphonesimulator -F/Users/jonahgrant/JGWebView/Sample/build/Debug-iphonesimulator -filelist /Users/jonahgrant/JGWebView/Sample/build/Sample.build/Debug-iphonesimulator/Sample.build/Objects-normal/i386/Sample.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/jonahgrant/JGWebView/Sample/build/Debug-iphonesimulator/Sample.app/Sample0#
+
+CProcessInfoPlistFile /Users/jonahgrant/JGWebView/Sample/build/Debug-iphonesimulator/Sample.app/Info.plist Sample-Info.plist
+s322199143.504609
+e322199143.625579
+r1
+xProcessInfoPlistFile
+x/Users/jonahgrant/JGWebView/Sample/build/Debug-iphonesimulator/Sample.app/Info.plist
+xSample-Info.plist
+lSLF07#2@25"Process Sample-Info.plist322199143#322199143#0(0"0(0#0#52"/Users/jonahgrant/JGWebView/Sample/Sample-Info.plist9218174880#464"    cd /Users/jonahgrant/JGWebView/Sample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Sample-Info.plist -genpkginfo /Users/jonahgrant/JGWebView/Sample/build/Debug-iphonesimulator/Sample.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/jonahgrant/JGWebView/Sample/build/Debug-iphonesimulator/Sample.app/Info.plist0#
+
+CProcessPCH /var/folders/qZ/qZxnUPSOF5S8yEbSxrhL1U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sample_Prefix-dvuhikybudxdppaewrpsaiqjsvhb/Sample_Prefix.pch.gch Sample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s322199144.364539
+e322199146.322896
+r1
+xProcessPCH
+x/var/folders/qZ/qZxnUPSOF5S8yEbSxrhL1U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sample_Prefix-dvuhikybudxdppaewrpsaiqjsvhb/Sample_Prefix.pch.gch
+xSample_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile Sample_Prefix.pch322199144#322199146#0(0"0(0#0#52"/Users/jonahgrant/JGWebView/Sample/Sample_Prefix.pch9213968544#1747"    cd /Users/jonahgrant/JGWebView/Sample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/jonahgrant/JGWebView/Sample/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-generated-files.hmap -I/Users/jonahgrant/JGWebView/Sample/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-own-target-headers.hmap -I/Users/jonahgrant/JGWebView/Sample/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-all-target-headers.hmap -iquote /Users/jonahgrant/JGWebView/Sample/build/Sample.build/Debug-iphonesimulator/Sample.build/Sample-project-headers.hmap -F/Users/jonahgrant/JGWebView/Sample/build/Debug-iphonesimulator -I/Users/jonahgrant/JGWebView/Sample/build/Debug-iphonesimulator/include -I/Users/jonahgrant/JGWebView/Sample/build/Sample.build/Debug-iphonesimulator/Sample.build/DerivedSources/i386 -I/Users/jonahgrant/JGWebView/Sample/build/Sample.build/Debug-iphonesimulator/Sample.build/DerivedSources -c /Users/jonahgrant/JGWebView/Sample/Sample_Prefix.pch -o /var/folders/qZ/qZxnUPSOF5S8yEbSxrhL1U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sample_Prefix-dvuhikybudxdppaewrpsaiqjsvhb/Sample_Prefix.pch.gch0#
+
+CTouch /Users/jonahgrant/JGWebView/Sample/build/Debug-iphonesimulator/Sample.app
+s322199449.429305
+e322199449.442639
+r1
+xTouch
+x/Users/jonahgrant/JGWebView/Sample/build/Debug-iphonesimulator/Sample.app
+lSLF07#2@79"Touch /Users/jonahgrant/JGWebView/Sample/build/Debug-iphonesimulator/Sample.app322199449#322199449#0(0"0(0#0#0"9200762432#269"    cd /Users/jonahgrant/JGWebView/Sample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/jonahgrant/JGWebView/Sample/build/Debug-iphonesimulator/Sample.app0#
+
